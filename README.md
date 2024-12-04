@@ -1,5 +1,4 @@
-# We are still cleaning our Code
-
+# This is the code for 《Coherent Comic Book Generation Involving Text Processing and Visual Constraints. We are still cleaning our Code. 
 
 
 
